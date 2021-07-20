@@ -47,3 +47,6 @@ function delItem() {
         $(this).parent().parent().remove();
     })
 }
+
+checkItem();
+delItem();
